@@ -1,8 +1,4 @@
-<p align="center">
-  <a>
-    <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/08d0a005-2311-43c9-9f9c-dea2749251d5">
-  </a>
-</p>
+
 <h1 align="center">Software de Gestão Financeira Pessoal | Desenvolvido em Flask</h1>
 
 <p align="center">
