@@ -38,10 +38,10 @@ A tela de login e cadastro foi desenvolvida para proporcionar uma experiência a
 
 #### Dashboard
 <p align="center">
-  <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/b0d766d5-d19f-4370-9fd3-cdf80cb466d6" width="600">
+  <img src="https://ibb.co/mSR6S6h" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/2d609a9d-4a2d-4de6-9974-be26319eaccc" width="600">
+  <img src="https://ibb.co/XYPVgPW" width="600">
 </p>
 
 O módulo de Dashboard é uma obra-prima de design e funcionalidade, fornecendo aos usuários uma visão abrangente e intuitiva de suas finanças. Este painel oferece recursos sofisticados para o gerenciamento financeiro pessoal.
@@ -61,7 +61,7 @@ O módulo de Dashboard é uma obra-prima de design e funcionalidade, fornecendo 
 
 #### Gerenciamento de Usuários
 <p align="center">
-  <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/cf202141-e651-47da-957b-87c7559cf0ec" width="600">
+  <img src="https://ibb.co/RjFZNdx" width="600">
 </p>
 O módulo de Gerenciamento de Usuários é uma ferramenta robusta e segura que coloca o controle nas mãos dos administradores, permitindo uma visão geral sobre os usuários e a exclusão dos mesmos.
 
