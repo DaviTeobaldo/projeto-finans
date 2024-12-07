@@ -34,12 +34,8 @@ Com uma interface amigável e design responsivo, este projeto visa proporcionar 
 A tela de login e cadastro foi desenvolvida para proporcionar uma experiência autenticada e segura aos usuários. Através de uma implementação de segurança em hash e integração com banco de dados SQLite, esse sistema oferece funcionalidades essenciais para gerenciar contas de forma eficiente.
 
 #### Dashboard
-<p align="center">
-  <img src="https://ibb.co/mSR6S6h" width="600">
-</p>
-<p align="center">
-  <img src="https://ibb.co/XYPVgPW" width="600">
-</p>
+<a href="https://ibb.co/qW3qcVX"><img src="https://i.ibb.co/dLwCVx1/Captura-de-tela-2024-12-07-165843.png" alt="Captura-de-tela-2024-12-07-165843" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k3bRMWn/Captura-de-tela-2024-12-07-165856.png" alt="Captura-de-tela-2024-12-07-165856" border="0"></a>
 
 O módulo de Dashboard é uma obra-prima de design e funcionalidade, fornecendo aos usuários uma visão abrangente e intuitiva de suas finanças. Este painel oferece recursos sofisticados para o gerenciamento financeiro pessoal.
 
