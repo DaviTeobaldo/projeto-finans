@@ -21,7 +21,7 @@ Finans é uma aplicação web construída com Flask, projetado para proporcionar
   
 Destacando-se pela flexibilidade, a aplicação facilita a organização das transações através de filtros por anos e meses específicos, permitindo uma análise mais detalhada de diferentes períodos. Além disso, o Nik0 Finance proporciona recursos avançados, incluindo edição e exclusão de transações, para garantir total controle sobre o histórico financeiro.
 
-Com uma interface amigável e design responsivo, este projeto visa proporcionar uma experiência completa e eficaz para aqueles que buscam gerenciar suas finanças pessoais de maneira eficaz. Potencialize seu controle financeiro com o Nik0 Finance.
+Com uma interface amigável e design responsivo, este projeto visa proporcionar uma experiência completa e eficaz para aqueles que buscam gerenciar suas finanças pessoais de maneira eficaz. Potencialize seu controle financeiro com o Finans.
 </p>
 
 ### Funcionalidades
@@ -76,7 +76,7 @@ O módulo de Gerenciamento de Usuários é uma ferramenta robusta e segura que c
   
 - <strong>Werkzeug (Biblioteca de Utilidades)</strong>: A biblioteca Werkzeug é utilizada para encriptar as senhas criadas pelo usuário no banco de dados.
   
-- <strong>Python 3</strong>: O Nik0 Finance é desenvolvido na versão mais recente do Python, aproveitando as características modernas e a eficiência dessa linguagem.
+- <strong>Python 3</strong>: O Finans é desenvolvido na versão mais recente do Python, aproveitando as características modernas e a eficiência dessa linguagem.
 
 ## Como utilizar o Finans?
 #### Requisitos iniciais
