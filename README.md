@@ -61,7 +61,7 @@ O módulo de Dashboard é uma obra-prima de design e funcionalidade, fornecendo 
 
 #### Gerenciamento de Usuários
 <p align="center">
-  <img src="https://ibb.co/RjFZNdx" width="600">
+  <a href="https://ibb.co/RjFZNdx"><img src="https://i.ibb.co/km7kJvR/Captura-de-tela-2024-12-07-164348.png" alt="Captura-de-tela-2024-12-07-164348" border="0" /></a>
 </p>
 O módulo de Gerenciamento de Usuários é uma ferramenta robusta e segura que coloca o controle nas mãos dos administradores, permitindo uma visão geral sobre os usuários e a exclusão dos mesmos.
 
