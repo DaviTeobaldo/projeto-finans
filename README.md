@@ -14,14 +14,14 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-BD00FF?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-## Sobre o Nik0 Finance
+## Sobre o Finans
 
 <p align="center">
 	<img src="https://github.com/Nik0lax/nik0finance/assets/136096951/28e1db6f-d497-404f-a397-bc21da9fede5" />
 </p>
 <p align="center">
   
-Nik0 Finance é uma aplicação web construída com Flask, projetado para proporcionar uma experiência intuitiva de gerenciamento financeiro pessoal, o Nik0 Finance permite aos usuários registrar suas transações de renda e custos de maneira simples e eficiente. Explore resumos financeiros detalhados que oferecem uma visão abrangente do seu panorama financeiro.
+Finans é uma aplicação web construída com Flask, projetado para proporcionar uma experiência intuitiva de gerenciamento financeiro pessoal, o Nik0 Finance permite aos usuários registrar suas transações de renda e custos de maneira simples e eficiente. Explore resumos financeiros detalhados que oferecem uma visão abrangente do seu panorama financeiro.
   
 Destacando-se pela flexibilidade, a aplicação facilita a organização das transações através de filtros por anos e meses específicos, permitindo uma análise mais detalhada de diferentes períodos. Além disso, o Nik0 Finance proporciona recursos avançados, incluindo edição e exclusão de transações, para garantir total controle sobre o histórico financeiro.
 
@@ -88,7 +88,7 @@ O módulo de Gerenciamento de Usuários é uma ferramenta robusta e segura que c
   
 - <strong>Python 3</strong>: O Nik0 Finance é desenvolvido na versão mais recente do Python, aproveitando as características modernas e a eficiência dessa linguagem.
 
-## Como utilizar o Nik0 Finance?
+## Como utilizar o Finans?
 #### Requisitos iniciais
 Realize o download dos arquivos deste repositório e tenha instalado em sua máquina:
 
@@ -103,7 +103,7 @@ pip install -r .\requirements.txt
 ```
 Com isso, será instalado todas as dependências utilizadas pelo projeto.
 
-<strong>Execute o nik0finance.py:</strong>
+<strong>Execute o davi-finans.py:</strong>
 ```bash
 python nik0finance.py
 ```
