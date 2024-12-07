@@ -27,12 +27,9 @@ Com uma interface amigável e design responsivo, este projeto visa proporcionar 
 ### Funcionalidades
 #### Tela de Login e Cadastro
 
-<p align="center">
-  <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/66419266-01f4-40e7-97dd-6ce37f3e0095" width="600">
-</p>
-<p align="center">
-  <img src="https://github.com/Nik0lax/nik0finance/assets/136096951/a1317f9c-6dd3-4f1e-b56e-8af5e074a107" width="600">
-</p>
+<a href="https://ibb.co/mSR6S6h"><img src="https://i.ibb.co/N7FZ7ZW/Captura-de-tela-2024-12-07-164313.png" alt="Captura-de-tela-2024-12-07-164313" border="0" /></a>
+<a href="https://ibb.co/XYPVgPW"><img src="https://i.ibb.co/MBH94Hg/Captura-de-tela-2024-12-07-164331.png" alt="Captura-de-tela-2024-12-07-164331" border="0" /></a>
+
 
 A tela de login e cadastro foi desenvolvida para proporcionar uma experiência autenticada e segura aos usuários. Através de uma implementação de segurança em hash e integração com banco de dados SQLite, esse sistema oferece funcionalidades essenciais para gerenciar contas de forma eficiente.
 
