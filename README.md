@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   
-Finans é uma aplicação web construída com Flask, projetado para proporcionar uma experiência intuitiva de gerenciamento financeiro pessoal, o Nik0 Finance permite aos usuários registrar suas transações de renda e custos de maneira simples e eficiente. Explore resumos financeiros detalhados que oferecem uma visão abrangente do seu panorama financeiro.
+Finans é uma aplicação web construída com Flask, projetado para proporcionar uma experiência intuitiva de gerenciamento financeiro pessoal, o Finans permite aos usuários registrar suas transações de renda e custos de maneira simples e eficiente. Explore resumos financeiros detalhados que oferecem uma visão abrangente do seu panorama financeiro.
   
 Destacando-se pela flexibilidade, a aplicação facilita a organização das transações através de filtros por anos e meses específicos, permitindo uma análise mais detalhada de diferentes períodos. Além disso, o Nik0 Finance proporciona recursos avançados, incluindo edição e exclusão de transações, para garantir total controle sobre o histórico financeiro.
 
