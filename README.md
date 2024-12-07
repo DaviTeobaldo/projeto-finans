@@ -105,7 +105,7 @@ Com isso, será instalado todas as dependências utilizadas pelo projeto.
 
 <strong>Execute o davi-finans.py:</strong>
 ```bash
-python nik0finance.py
+python davi-finans.py
 ```
 Será imprimido no terminal o endereço do localhost para você acessar pelo seu navegador e poder desfrutar do projeto a vontade!
 
